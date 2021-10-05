@@ -1,4 +1,4 @@
-## **VirtualMachine installation :**
+## **VM VirtualBox installation :**
 
 step 1: Download the virtualbox  platform packages for your os.
 
